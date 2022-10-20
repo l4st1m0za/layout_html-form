@@ -2,14 +2,14 @@
   margin-top: 10px;
 }
   
-fieldset div:first-of-type {
+.fieldset div:first-of-type {
   margin-top: 0;
-}
-  
-fieldset:first-child {
-  margin: 0;
 }
   
 .fieldset {
   margin: 20px 0;
-}  
+}
+
+.fieldset:first-child {
+  margin: 0;
+}
