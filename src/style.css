@@ -6,10 +6,10 @@
   margin-top: 0;
 }
   
-fieldset {
-  margin: 20px 0;
+fieldset:first-child {
+  margin: 0;
 }
   
-.fieldset-first {
-  margin: 0;
+.fieldset {
+  margin: 20px 0;
 }  
