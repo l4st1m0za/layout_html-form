@@ -1,16 +1,12 @@
-.fieldset label:first-of-type {
-  margin-top: 0;
+.fieldset-elem {
+  display: block;
+  margin-bottom: 10px;
 }
   
 .fieldset {
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 
-.fieldset:first-child {
-  margin: 0;
-}
-
-.fieldset-elem {
-  display: block;
-  margin-top: 10px;
+.fieldset-elem:last-child {
+  margin-bottom: 0;
 }
